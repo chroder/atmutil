@@ -1,0 +1,10 @@
+# This is an example list 
+# used with listFromFile.test.ts
+
+/a/b/c
+!/a/b/c
+
+    # test test
+    im testing
+
+/foo/bar
